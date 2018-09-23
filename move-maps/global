@@ -1,0 +1,46 @@
+# Gentoo's 1Q-2018
+app-portage/kuroo4 -> app-portage/kuroo
+dev-cpp/gsl -> dev-cpp/ms-gsl
+app-admin/restart_services -> app-admin/restart-services
+dev-libs/purpose -> kde-frameworks/purpose
+kde-misc/plasma-applet-redshift-control -> kde-misc/plasma-redshift-control
+x11-proto/xorgproto -> x11-base/xorg-proto
+games-action/trine-bin -> games-action/trine
+app-admin/bind_exporter -> app-metrics/bind_exporter
+app-admin/elasticsearch_exporter -> app-metrics/elasticsearch_exporter
+app-admin/mongodb_exporter -> app-metrics/mongodb_exporter
+app-admin/nginx-vts-exporter -> app-metrics/nginx-vts-exporter
+app-admin/prom2json -> app-metrics/prom2json
+net-analyzer/prometheus -> app-metrics/prometheus
+net-analyzer/prometheus-alertmanager -> app-metrics/alertmanager
+dev-util/buildbot-prometheus -> app-metrics/buildbot-prometheus
+net-analyzer/prometheus-node_exporter -> app-metrics/node_exporter
+net-analyzer/prometheus-blackbox_exporter -> app-metrics/blackbox_exporter
+net-analyzer/prometheus-snmp_exporter -> app-metrics/snmp_exporter
+net-analyzer/prometheus-redis_exporter -> app-metrics/redis_exporter
+net-analyzer/prometheus-uwsgi_exporter -> app-metrics/uwsgi_exporter
+net-analyzer/prometheus-pushgateway -> app-metrics/pushgateway
+
+# Gentoo's 2Q-2018
+app-admin/collectd -> app-metrics/collectd
+app-metrics/prometheus-mysqld_exporter -> app-metrics/mysqld_exporter
+gnome-extra/gnome-builder -> dev-util/gnome-builder
+kde-apps/kstars -> sci-astronomy/kstars
+media-video/kamoso -> kde-apps/kamoso
+app-backup/kbackup -> kde-apps/kbackup
+x11-proto/xcb-proto -> x11-base/xcb-proto
+dev-db/xtrabackup-bin -> dev-db/percona-xtrabackup-bin
+ros-meta/geometry_experimental -> ros-meta/geometry2
+kde-plasma/oxygen-fonts -> media-fonts/oxygen-fonts
+media-libs/vulkan-tools -> dev-util/vulkan-tools
+games-strategy/ufo-ai -> games-strategy/ufoai
+kde-apps/okteta -> app-editors/okteta
+games-puzzle/triptych-demo -> games-puzzle/triptych
+media-sound/teamspeak-client-bin -> media-sound/teamspeak-client
+media-sound/teamspeak-server-bin -> media-sound/teamspeak-server
+sci-chemistry/mdanalysis -> sci-chemistry/MDAnalysis
+
+# Gentoo's 3Q-2018 (last update 2018-09-23)
+app-crypt/sbsigntool -> app-crypt/sbsigntools
+x11-apps/radeontop -> app-misc/radeontop
+gnome-extra/authenticator -> sys-auth/authenticator
